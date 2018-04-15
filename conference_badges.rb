@@ -18,3 +18,7 @@ def assign_rooms(attendees)
     end
     messages
 end
+
+def printer
+    
+end
